@@ -1,4 +1,4 @@
-# Groc4All - An E-Commerce Website
+# Groc For All - An E-Commerce Website
 
 ## Features
 	1. Full Authentication via face-recognition
@@ -22,7 +22,7 @@ Clone the project repository
 
 ``` bash
 # change directory
-$ cd IBM_HACK
+$ cd HackThisFall
 
 # Setup Virtual Environment(LINUX)
 $ virtualenv venv
